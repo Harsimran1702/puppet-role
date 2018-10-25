@@ -1,0 +1,15 @@
+{
+  "name": "harsimran-role",
+  "version": "0.1.0",
+  "author": "Harsimran Singh <harsimransingh1702@gmail.com>",
+  "summary": "This is a roles module.",
+  "license": "Apache-2.0",
+  "source": "git@github.com:Harsimran1702/puppet-role.git",
+  "project_page": "https://github.com/Harsimran1702/puppet-role",
+  "issues_url": "https://github.com/Harsimran1702/puppet-role/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
